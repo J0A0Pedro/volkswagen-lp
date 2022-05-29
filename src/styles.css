@@ -213,41 +213,41 @@ header ul{
     width: 100%;
   }
   
-header{
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  margin:0px;
-  padding: 0px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
+  header{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    margin:0px;
+    padding: 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
 
-header .logo{
-  max-width: 180px;
-  padding: 15px;
-}
-header ul{
-  position: relative;
-  display: flex;
-}
+  header .logo{
+    max-width: 180px;
+    padding: 15px;
+  }
+  header ul{
+    position: relative;
+    display: flex;
+  }
 
 
-header ul li a {
-  display: inline-block;
-  color: #333;
-  margin:0;
-}
+  header ul li a {
+    display: inline-block;
+    color: #333;
+    margin:0;
+  }
 
-.content{
-  position: relative;
-  width: 100%;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
+  .content{
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
 
   .content .textBox{
     position: relative;
@@ -256,7 +256,7 @@ header ul li a {
   }
   .content .textBox h2{
     color: #333;
-    font-size: 4em;
+    font-size: 6.5em;
     line-height: 1.5em;
     font-weight: 500;
   }
@@ -296,5 +296,9 @@ header ul li a {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+  }
+
+  .contato li a img{
+    width:200px;
   }
 }
