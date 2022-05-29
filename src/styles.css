@@ -174,10 +174,11 @@ header ul li a {
     margin:0;
   }
   section{
+    width:100%;
     /* background: blue; */
   }
   header{
-    width:10vw;
+    width:100%;
     padding:0;
     margin:0;
   }
