@@ -179,7 +179,7 @@ header ul li a {
   header ul{
   }
   header ul li{
-
+    width:100%;
     font-size: 1em;
   }
   .content .textBox h2{
