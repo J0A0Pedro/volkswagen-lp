@@ -177,6 +177,11 @@ header ul li a {
   }
   header ul{
     padding-right: 10px;
+    font-size:1em;
+  }
+  header ul li{
+    padding:0;
+    margin:0;
   }
   .content .textBox h2{
     font-size: 3em;
