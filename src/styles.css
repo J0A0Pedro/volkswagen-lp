@@ -177,12 +177,13 @@ header ul li a {
 
     /* background: blue; */
   }
+
   header{
-    padding:0px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    padding:0;
+    margin:0;
+    width:100%;
   }
+
   
   .content .textBox h2{
     font-size: 3em;
