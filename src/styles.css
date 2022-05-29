@@ -183,7 +183,7 @@ header ul li a {
   header ul li{
     padding:0;
     margin:0;
-    font-size: 1em;
+    font-size: .5em;
   }
   .content .textBox h2{
     font-size: 3em;
