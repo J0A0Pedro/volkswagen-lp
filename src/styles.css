@@ -170,19 +170,11 @@ header ul li a {
 
 @media (max-width: 600px){
   section{
-    background: blue;
+    /* background: blue; */
   }
   header{
-    padding:0; 
+    padding:0;
     margin:0;
-  }
-
-  header ul{
-    padding-right: 0px;
-  }
-  header ul li{
-    width:100%;
-    font-size: 16px;
   }
   .content .textBox h2{
     font-size: 3em;
