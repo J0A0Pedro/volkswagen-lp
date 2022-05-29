@@ -5,6 +5,7 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+
 @media screen and (min-width: 1000px){
   section{
     position: relative;
@@ -428,6 +429,12 @@
   
 }
 
+
+@media (min-width: 200px) and (max-width: 550px){
+  section{
+    background: yellow;
+  }
+}
 
 
 
