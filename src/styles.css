@@ -170,7 +170,7 @@ header ul li a {
 
 @media (max-width: 600px){
   section{
-    /* background: blue; */
+    background: blue;
   }
   header{
     padding:0; 
